@@ -6,3 +6,4 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 - Even_Odd: even and odd numbers exercise
 - Stringy_Strings: string creation exercise
+- Double_Char: string manipulation exercise
