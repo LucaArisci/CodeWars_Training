@@ -8,3 +8,4 @@ This folder is my personal exercise playground. The texts of all the exercises h
 - [Stringy_Strings](JavaScript/8_kyu/Stringy_Strings.js): string creation exercise
 - [Double_Char](JavaScript/8_kyu/Double_Char.js): string manipulation exercise
 - [Smallest_Int](JavaScript/8_kyu/Smallest_Int.js): element search exercise
+- [Name_Billboard](JavaScript/8_kyu/Name_Billboard.js): calculation exercise
