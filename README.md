@@ -13,6 +13,10 @@ This folder is my personal exercise playground. The texts of all the exercises h
 - [Stringy_Strings](JavaScript/8_kyu/String_creation/Stringy_Strings.js)
 - [Welcome](JavaScript/8_kyu/String_creation/Welcome.js)
 
+### String comparison exercises
+
+- [Opposite_String](JavaScript/8_kyu/String_comparison/Opposite_String.js)
+
 ### String and array manipulation exercises
 
 - [Double_Char](JavaScript/8_kyu/String_array_manipulation/Double_Char.js)
