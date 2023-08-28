@@ -4,8 +4,23 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 ## 8 Kyu
 
-- [Even_Odd](JavaScript/8_kyu/Even_Odd.js): condition search exercise
-- [Stringy_Strings](JavaScript/8_kyu/Stringy_Strings.js): string creation exercise
-- [Double_Char](JavaScript/8_kyu/Double_Char.js): string manipulation exercise
-- [Smallest_Int](JavaScript/8_kyu/Smallest_Int.js): element search exercise
-- [Name_Billboard](JavaScript/8_kyu/Name_Billboard.js): calculation exercise
+### Condition search exercises
+
+- [Even_Odd](JavaScript/8_kyu/Even_Odd.js)
+
+### String creation exercises
+
+- [Stringy_Strings](JavaScript/8_kyu/Stringy_Strings.js)
+- [Welcome](JavaScript/8_kyu/Welcome.js)
+
+### String manipulation exercises
+
+- [Double_Char](JavaScript/8_kyu/Double_Char.js)
+
+### Element search exercises
+
+- [Smallest_Int](JavaScript/8_kyu/Smallest_Int.js)
+
+### Calculation exercises
+
+- [Name_Billboard](JavaScript/8_kyu/Name_Billboard.js)
