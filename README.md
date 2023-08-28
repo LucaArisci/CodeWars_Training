@@ -4,6 +4,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 ## 8 Kyu
 
-- [Even_Odd](JavaScript/8_kyu/Even_Odd.js): even and odd numbers exercise
+- [Even_Odd](JavaScript/8_kyu/Even_Odd.js): condition search exercise
 - [Stringy_Strings](JavaScript/8_kyu/Stringy_Strings.js): string creation exercise
 - [Double_Char](JavaScript/8_kyu/Double_Char.js): string manipulation exercise
+- [Smallest_Int](JavaScript/8_kyu/Smallest_Int.js): element search exercise
