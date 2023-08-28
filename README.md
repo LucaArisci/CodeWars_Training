@@ -6,21 +6,22 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 ### Condition search exercises
 
-- [Even_Odd](JavaScript/8_kyu/Even_Odd.js)
+- [Even_Odd](JavaScript/8_kyu/Condition_search/Even_Odd.js)
 
 ### String creation exercises
 
-- [Stringy_Strings](JavaScript/8_kyu/Stringy_Strings.js)
-- [Welcome](JavaScript/8_kyu/Welcome.js)
+- [Stringy_Strings](JavaScript/8_kyu/String_creation/Stringy_Strings.js)
+- [Welcome](JavaScript/8_kyu/String_creation/Welcome.js)
 
-### String manipulation exercises
+### String and array manipulation exercises
 
-- [Double_Char](JavaScript/8_kyu/Double_Char.js)
+- [Double_Char](JavaScript/8_kyu/String_array_manipulation/Double_Char.js)
+- [Remove_Duplicate](JavaScript/8_kyu/String_array_manipulation/Remove_Duplicate.js)
 
 ### Element search exercises
 
-- [Smallest_Int](JavaScript/8_kyu/Smallest_Int.js)
+- [Smallest_Int](JavaScript/8_kyu/Element_search/Smallest_Int.js)
 
 ### Calculation exercises
 
-- [Name_Billboard](JavaScript/8_kyu/Name_Billboard.js)
+- [Name_Billboard](JavaScript/8_kyu/Calculation/Name_Billboard.js)

@@ -27,7 +27,7 @@ class SmallestIntegerFinder {
 /*
     Alternative solution:
 
-    Math.min(...args)   returns the smallest element given as input parameter
+    Math.min()   returns the smallest element given as input parameter
 */
 
 class SmallestIntegerFinder {

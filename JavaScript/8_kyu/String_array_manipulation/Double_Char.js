@@ -20,13 +20,14 @@ function doubleChar(str) {
 /* 
    Alternative solution:
 
-   .split(""):  creates an array of substrings of str (one element for every character in this case)
+   String.prototype.split():  creates an array of substrings of the given string (one element for every
+                              character in this case)
 
-   .map((c) => c + c):  creates a new array populated with the results of calling the provided 
-                        function on every element in the calling array
+   Array.prototype.map():     creates a new array populated with the results of calling the provided 
+                              function on every element in the calling array
 
-   .join(""):   creates and returns a new string by concatenating all of the elements in this array,
-                (whit a specified separator in this case)
+   Array.prototype.join():    creates and returns a new string by concatenating all of the elements in
+                              this array, (whit a specified separator in this case)
 */
 
 const doubleChar = (str) =>

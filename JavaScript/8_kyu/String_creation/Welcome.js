@@ -13,6 +13,14 @@
 
 ---------------------------------------------------------------------------------------- */
 
+/* 
+    Array.prototype.toString(): returns a string representing the specified array and its
+                                elements
+
+    String.prototype.replaceAll():  returns a new string with all matches of a pattern 
+                                    replaced by a replacement                      
+*/
+
 function sayHello(name, city, state) {
   return (
     "Hello, " +
@@ -28,8 +36,8 @@ function sayHello(name, city, state) {
 /*
     Alternative solution:
 
-    .join(""):  creates and returns a new string by concatenating all of the elements in this array,
-                (whit a specified separator in this case)
+    Array.prototype.join(): creates and returns a new string by concatenating all of the elements
+                            in this array, (whit a specified separator in this case)
 */
 
 function sayHello(name, city, state) {

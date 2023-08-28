@@ -22,11 +22,12 @@ function billboard(name, price = 30) {
 /*
     Alternative solution:
 
-    .split(""):  creates an array of substrings of name (one element for every character in this case)
+    String.prototype.split(): creates an array of substrings of the given string (one element for
+                              every character in this case)
 
-    .reduce((sum, letter) => sum + price, 0)    executes a user-supplied "reducer" callback function on
-                                                each element of the array, in order, passing in the return
-                                                value from the calculation on the preceding element
+    Array.prototype.reduce(): executes a user-supplied "reducer" callback function on each element
+                              of the array, in order, passing in the return value from the
+                              calculation on the preceding element
 */
 
 function billboard(name, price = 30) {
