@@ -1,11 +1,20 @@
 /* ----------------------------------------------------------------------------------------------
 
-    Write a function that takes an integer as input, and returns the number of bits that are
-    equal to one in the binary representation of that number. You can guarantee that input
-    is non-negative.
+    Your task is to find the maximum number of queens that can be put on the board so that
+    there would be one single unbeaten square (ie. threatened by no queen on the board).
+    
+    The Queen can move any distance vertically, horizontally and diagonally.
 
-    Example:  The binary representation of 1234 is 10011010010, so the function should 
-              return 5 in this case
+    The queens(n) function takes the size of the chessboard. n is a BigInt and it can be 
+    negative.
+    
+    Output: The maximum number of queens to leave one single unbeaten square. Return 0
+    if n is negative.
+
+    Examples:
+
+    n = 4 -> quens = 6
+    n = 5 -> quens = 12
 
 ---------------------------------------------------------------------------------------------- */
 
