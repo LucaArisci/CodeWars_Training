@@ -22,6 +22,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 - [Double_Char](JavaScript/8_kyu/String_array_manipulation/Double_Char.js)
 - [Remove_Duplicate](JavaScript/8_kyu/String_array_manipulation/Remove_Duplicate.js)
+- [Print_Array](JavaScript/8_kyu/String_array_manipulation/Print_Array.js)
 
 ### Element search exercises
 
