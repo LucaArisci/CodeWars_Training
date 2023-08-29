@@ -8,6 +8,12 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 - [Binary_Ones](JavaScript/6_kyu/Calculation/Binary_Ones.js)
 
+## 7 Kyu
+
+#### Calculation exercises
+
+- [Queens](JavaScript/7_kyu/Calculation/Queens.js)
+
 ## 8 Kyu
 
 ### Condition search exercises
