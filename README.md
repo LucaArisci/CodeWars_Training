@@ -2,6 +2,12 @@
 
 This folder is my personal exercise playground. The texts of all the exercises have been taken from [codewars.com](https://www.codewars.com) and each of them is divided by difficulty (kyu - 8: easiest - 1: most difficult)
 
+## 6 Kyu
+
+### Calculation exercises
+
+- [Binary_Ones](JavaScript/6_kyu/Calculation/Binary_Ones.js)
+
 ## 8 Kyu
 
 ### Condition search exercises
