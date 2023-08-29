@@ -31,7 +31,7 @@ function distinct(a) {
 /* 
     Alternative solution:
 
-    new Set()   use the Set class constructor passing the array as an iterable parameter
+    new Set():  use the Set class constructor passing the array as an iterable parameter
                 in order to create a set of unique elements
 */
 

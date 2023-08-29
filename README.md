@@ -8,21 +8,22 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 - [Even_Odd](JavaScript/8_kyu/Condition_search/Even_Odd.js)
 
-### String creation exercises
+### String and array creation exercises
 
-- [Stringy_Strings](JavaScript/8_kyu/String_creation/Stringy_Strings.js)
-- [Welcome](JavaScript/8_kyu/String_creation/Welcome.js)
-- [Greetings](JavaScript/8_kyu/String_creation/Greetings.js)
+- [Complete_Array](JavaScript/8_kyu/String_array_creation/Complete_Array.js)
+- [Greetings](JavaScript/8_kyu/String_array_creation/Greetings.js)
+- [Stringy_Strings](JavaScript/8_kyu/String_array_creation/Stringy_Strings.js)
+- [Welcome](JavaScript/8_kyu/String_array_creation/Welcome.js)
 
-### String comparison exercises
+### String and array comparison exercises
 
-- [Opposite_String](JavaScript/8_kyu/String_comparison/Opposite_String.js)
+- [Opposite_String](JavaScript/8_kyu/String_array_comparison/Opposite_String.js)
 
 ### String and array manipulation exercises
 
 - [Double_Char](JavaScript/8_kyu/String_array_manipulation/Double_Char.js)
-- [Remove_Duplicate](JavaScript/8_kyu/String_array_manipulation/Remove_Duplicate.js)
 - [Print_Array](JavaScript/8_kyu/String_array_manipulation/Print_Array.js)
+- [Remove_Duplicate](JavaScript/8_kyu/String_array_manipulation/Remove_Duplicate.js)
 
 ### Element search exercises
 
@@ -31,3 +32,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 ### Calculation exercises
 
 - [Name_Billboard](JavaScript/8_kyu/Calculation/Name_Billboard.js)
+
+## Exercise to propose
+
+- Variation of [Complete_Array](JavaScript/8_kyu/String_array_creation/Complete_Array.js)
