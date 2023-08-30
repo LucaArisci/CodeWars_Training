@@ -45,6 +45,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 - [Name_Billboard](JavaScript/8_kyu/Calculation/Name_Billboard.js)
 - [Paperwork](JavaScript/8_kyu/Calculation/Paperwork.js)
+- [Salary](JavaScript/8_kyu/Calculation/Salary.js)
 
 ## Exercise to propose
 
