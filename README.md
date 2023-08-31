@@ -13,6 +13,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 #### Calculation exercises
 
 - [Queens](JavaScript/7_kyu/Calculation/Queens.js)
+- [Job_Matching_2](JavaScript/7_kyu/Calculation/Job_Matching_2.js)
 
 ## 8 Kyu
 
@@ -43,9 +44,9 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 #### Calculation exercises
 
+- [Job_Matching_1](JavaScript/8_kyu/Calculation/Job_Matching_1.js)
 - [Name_Billboard](JavaScript/8_kyu/Calculation/Name_Billboard.js)
 - [Paperwork](JavaScript/8_kyu/Calculation/Paperwork.js)
-- [Salary](JavaScript/8_kyu/Calculation/Salary.js)
 
 ## Exercise to propose
 
