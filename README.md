@@ -2,6 +2,12 @@
 
 This folder is my personal exercise playground. The texts of all the exercises have been taken from [codewars.com](https://www.codewars.com) and each of them is divided by difficulty (kyu - 8: easiest - 1: most difficult)
 
+## 5 Kyu
+
+#### Calculation exercises
+
+- [Job_Matching_3](JavaScript/5_kyu/Calculation/Job_Matching_3.js) [TO BE REVISED]
+
 ## 6 Kyu
 
 #### Calculation exercises
