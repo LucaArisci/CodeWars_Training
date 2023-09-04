@@ -21,10 +21,15 @@ This folder is my personal exercise playground. The texts of all the exercises h
 - [Queens](JavaScript/7_kyu/Calculation/Queens.js)
 - [Job_Matching_2](JavaScript/7_kyu/Calculation/Job_Matching_2.js)
 
+#### String and array comparison exercises
+
+- [Time_Log](JavaScript/7_kyu/String_array_comparison/Time_Log.js)
+
 ## 8 Kyu
 
 #### Condition search exercises
 
+- [Even](JavaScript/8_kyu/Condition_search/Even.js)
 - [Even_Odd](JavaScript/8_kyu/Condition_search/Even_Odd.js)
 
 #### String and array creation exercises
