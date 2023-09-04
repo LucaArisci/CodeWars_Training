@@ -25,6 +25,10 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 - [Time_Log](JavaScript/7_kyu/String_array_comparison/Time_Log.js)
 
+#### String and array creation exercises
+
+- [Number_to_Bytes](JavaScript/7_kyu/String_array_creation/Number_to_Bytes.js)
+
 ## 8 Kyu
 
 #### Condition search exercises
