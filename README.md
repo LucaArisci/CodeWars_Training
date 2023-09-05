@@ -14,6 +14,10 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 - [Binary_Ones](JavaScript/6_kyu/Calculation/Binary_Ones.js)
 
+#### String and array creation exercises
+
+- [Money_Calculator](JavaScript/6_kyu/String_array_creation/Money_Calculator.js)
+
 ## 7 Kyu
 
 #### Calculation exercises
