@@ -24,6 +24,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 - [Queens](JavaScript/7_kyu/Calculation/Queens.js)
 - [Job_Matching_2](JavaScript/7_kyu/Calculation/Job_Matching_2.js)
+- [Divisible](JavaScript/7_kyu/Calculation/Divisible.js)
 
 #### String and array comparison exercises
 
