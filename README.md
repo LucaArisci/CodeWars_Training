@@ -36,6 +36,10 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 ## 8 Kyu
 
+#### Bug correction exercises
+
+- [Replace_Dots](JavaScript/8_kyu/Bug_correction/Replace_Dots.js)
+
 #### Condition search exercises
 
 - [Even](JavaScript/8_kyu/Condition_search/Even.js)
