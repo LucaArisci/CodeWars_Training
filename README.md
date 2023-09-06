@@ -18,6 +18,10 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 - [Money_Calculator](JavaScript/6_kyu/String_array_creation/Money_Calculator.js)
 
+#### String and array manipulation exercises
+
+- [Weird_Camel](JavaScript/6_kyu/String_array_manipulation/Weird_Camel.js)
+
 ## 7 Kyu
 
 #### Calculation exercises
