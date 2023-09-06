@@ -44,6 +44,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 #### Calculation exercises
 
 - [ASCII_Code](JavaScript/8_kyu/Calculation/ASCII_Code.js)
+- [Holiday](JavaScript/8_kyu/Calculation/Holiday.js)
 - [Job_Matching_1](JavaScript/8_kyu/Calculation/Job_Matching_1.js)
 - [Name_Billboard](JavaScript/8_kyu/Calculation/Name_Billboard.js)
 - [Paperwork](JavaScript/8_kyu/Calculation/Paperwork.js)
