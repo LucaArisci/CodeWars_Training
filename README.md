@@ -40,10 +40,21 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 - [Replace_Dots](JavaScript/8_kyu/Bug_correction/Replace_Dots.js)
 
+#### Calculation exercises
+
+- [ASCII_Code](JavaScript/8_kyu/Calculation/ASCII_Code.js)
+- [Job_Matching_1](JavaScript/8_kyu/Calculation/Job_Matching_1.js)
+- [Name_Billboard](JavaScript/8_kyu/Calculation/Name_Billboard.js)
+- [Paperwork](JavaScript/8_kyu/Calculation/Paperwork.js)
+
 #### Condition search exercises
 
 - [Even](JavaScript/8_kyu/Condition_search/Even.js)
 - [Even_Odd](JavaScript/8_kyu/Condition_search/Even_Odd.js)
+
+#### Element search exercises
+
+- [Smallest_Int](JavaScript/8_kyu/Element_search/Smallest_Int.js)
 
 #### String and array creation exercises
 
@@ -61,16 +72,6 @@ This folder is my personal exercise playground. The texts of all the exercises h
 - [Double_Char](JavaScript/8_kyu/String_array_manipulation/Double_Char.js)
 - [Print_Array](JavaScript/8_kyu/String_array_manipulation/Print_Array.js)
 - [Remove_Duplicate](JavaScript/8_kyu/String_array_manipulation/Remove_Duplicate.js)
-
-#### Element search exercises
-
-- [Smallest_Int](JavaScript/8_kyu/Element_search/Smallest_Int.js)
-
-#### Calculation exercises
-
-- [Job_Matching_1](JavaScript/8_kyu/Calculation/Job_Matching_1.js)
-- [Name_Billboard](JavaScript/8_kyu/Calculation/Name_Billboard.js)
-- [Paperwork](JavaScript/8_kyu/Calculation/Paperwork.js)
 
 ## Exercise to propose
 
