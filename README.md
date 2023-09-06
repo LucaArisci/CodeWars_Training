@@ -34,6 +34,10 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 - [Number_to_Bytes](JavaScript/7_kyu/String_array_creation/Number_to_Bytes.js)
 
+#### String and array manipulation exercises
+
+- [Spacey](JavaScript/7_kyu/String_array_manipulation/Spacey.js)
+
 ## 8 Kyu
 
 #### Bug correction exercises
