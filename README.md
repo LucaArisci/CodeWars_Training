@@ -26,6 +26,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 #### Calculation exercises
 
+- [Circle_Area](JavaScript/7_kyu/Calculation/Circle_Area.js)
 - [Queens](JavaScript/7_kyu/Calculation/Queens.js)
 - [Job_Matching_2](JavaScript/7_kyu/Calculation/Job_Matching_2.js)
 - [Divisible](JavaScript/7_kyu/Calculation/Divisible.js)
