@@ -34,6 +34,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 #### String and array comparison exercises
 
 - [Time_Log](JavaScript/7_kyu/String_array_comparison/Time_Log.js)
+- [Word_Pattern](JavaScript/7_kyu/String_array_comparison/Word_Pattern.js)
 
 #### String and array creation exercises
 
