@@ -31,6 +31,10 @@ This folder is my personal exercise playground. The texts of all the exercises h
 - [Job_Matching_2](JavaScript/7_kyu/Calculation/Job_Matching_2.js)
 - [Divisible](JavaScript/7_kyu/Calculation/Divisible.js)
 
+#### Onjects exercises
+
+- [Linked_List](JavaScript/7_kyu/Objects/Linked_List.js)
+
 #### String and array comparison exercises
 
 - [Time_Log](JavaScript/7_kyu/String_array_comparison/Time_Log.js)
