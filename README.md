@@ -43,6 +43,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 #### String and array creation exercises
 
 - [Number_to_Bytes](JavaScript/7_kyu/String_array_creation/Number_to_Bytes.js)
+- [Hamming_Number](JavaScript/7_kyu/String_array_creation/Hamming_Number.js)
 - [Character_Concatenation](JavaScript/7_kyu/String_array_creation/Character_Concatenation.js)
 
 #### String and array manipulation exercises
