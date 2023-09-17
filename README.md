@@ -20,6 +20,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 #### String and array manipulation exercises
 
+- [Tacos_Rain](JavaScript/6_kyu/String_array_manipulation/Tacos_Rain.js)
 - [Weird_Camel](JavaScript/6_kyu/String_array_manipulation/Weird_Camel.js)
 
 ## 7 Kyu
