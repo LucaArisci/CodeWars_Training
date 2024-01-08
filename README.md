@@ -81,6 +81,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 #### Element search exercises
 
 - [Smallest_Int](JavaScript/8_kyu/Element_search/Smallest_Int.js)
+- [Element_Search](JavaScript/8_kyu/Element_search/Wolf_Sheep.js)
 
 #### String and array creation exercises
 
