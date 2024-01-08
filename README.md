@@ -86,6 +86,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 - [Complete_Array](JavaScript/8_kyu/String_array_creation/Complete_Array.js)
 - [Greetings](JavaScript/8_kyu/String_array_creation/Greetings.js)
+- [Number_Array_Converter](JavaScript/8_kyu/String_array_creation/Number_Array_Converter.js)
 - [Stringy_Strings](JavaScript/8_kyu/String_array_creation/Stringy_Strings.js)
 - [Welcome](JavaScript/8_kyu/String_array_creation/Welcome.js)
 
