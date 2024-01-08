@@ -54,6 +54,10 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 ## 8 Kyu
 
+#### Basic syntax exercises
+
+- [Template_Strings](JavaScript/8_kyu/Basic%20syntax/Template_Strings.js)
+
 #### Bug correction exercises
 
 - [Division](JavaScript/8_kyu/Bug_correction/Division.js)
