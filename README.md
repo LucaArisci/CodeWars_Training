@@ -72,6 +72,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 - [Even](JavaScript/8_kyu/Condition_search/Even.js)
 - [Even_Odd](JavaScript/8_kyu/Condition_search/Even_Odd.js)
+- [Leo_Oscar](JavaScript/8_kyu/Condition_search/Leo_Oscar.js)
 
 #### Element search exercises
 
