@@ -66,6 +66,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 #### Calculation exercises
 
+- [Area_Perimeter](JavaScript/8_kyu/Calculation/Area_Perimeter.js)
 - [ASCII_Code](JavaScript/8_kyu/Calculation/ASCII_Code.js)
 - [Holiday](JavaScript/8_kyu/Calculation/Holiday.js)
 - [Job_Matching_1](JavaScript/8_kyu/Calculation/Job_Matching_1.js)
