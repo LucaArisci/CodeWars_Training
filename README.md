@@ -97,6 +97,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 #### String and array manipulation exercises
 
+- [CSV_Rappresentation](JavaScript/8_kyu/String_array_manipulation/CSV_Rappresentation.js)
 - [Double_Char](JavaScript/8_kyu/String_array_manipulation/Double_Char.js)
 - [Print_Array](JavaScript/8_kyu/String_array_manipulation/Print_Array.js)
 - [Remove_Duplicate](JavaScript/8_kyu/String_array_manipulation/Remove_Duplicate.js)
