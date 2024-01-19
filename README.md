@@ -60,6 +60,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 #### Bug correction exercises
 
+- [Codevarior_Name](JavaScript/8_kyu/Bug_correction/Codevarior_Name.js)
 - [Division](JavaScript/8_kyu/Bug_correction/Division.js)
 - [Replace_Dots](JavaScript/8_kyu/Bug_correction/Replace_Dots.js)
 - [Return](JavaScript/8_kyu/Bug_correction/Return.js)
