@@ -106,6 +106,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 - [CSV_Rappresentation](JavaScript/8_kyu/String_array_manipulation/CSV_Rappresentation.js)
 - [Double_Char](JavaScript/8_kyu/String_array_manipulation/Double_Char.js)
 - [HTML_Special_Chars](JavaScript/8_kyu/String_array_manipulation/HTML_Special_Chars.js)
+- [Merging_Sorted_Int_Array](JavaScript/8_kyu/String_array_manipulation/Merging_Sorted_Int_Array.js)
 - [Print_Array](JavaScript/8_kyu/String_array_manipulation/Print_Array.js)
 - [Remove_Duplicate](JavaScript/8_kyu/String_array_manipulation/Remove_Duplicate.js)
 

@@ -8,6 +8,15 @@
 
 ---------------------------------------------------------------------------------------- */
 
+/* 
+    Array.prototype.push():   adds the specified elements to the end of an array and
+                              returns the new length of the array
+
+    Array.prototype.concat(:  used to merge two or more arrays. This method does not
+                              change the existing arrays, but instead returns a new
+                              array
+*/
+
 function spacey(array) {
   let res = [array[0]];
 
