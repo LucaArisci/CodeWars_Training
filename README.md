@@ -76,6 +76,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 - [Name_Billboard](JavaScript/8_kyu/Calculation/Name_Billboard.js)
 - [Opposites_Attract](JavaScript/8_kyu/Calculation/Opposites_Attract.js)
 - [Paperwork](JavaScript/8_kyu/Calculation/Paperwork.js)
+- [Slope](JavaScript/8_kyu/Calculation/Slope.js)
 - [Sum_of_Differences](JavaScript/8_kyu/Calculation/Sum_of_Differences.js)
 
 #### Condition search exercises
