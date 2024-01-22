@@ -67,6 +67,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 #### Calculation exercises
 
+- [Area_From_Circular](JavaScript/8_kyu/Calculation/Area_From_Circular.js)
 - [Area_Perimeter](JavaScript/8_kyu/Calculation/Area_Perimeter.js)
 - [ASCII_Code](JavaScript/8_kyu/Calculation/ASCII_Code.js)
 - [Decibel_Scale](JavaScript/8_kyu/Calculation/Decibel_Scale.js)
@@ -102,6 +103,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 #### String and array comparison exercises
 
 - [Opposite_String](JavaScript/8_kyu/String_array_comparison/Opposite_String.js)
+- [Palindrome](JavaScript/8_kyu/String_array_comparison/Palindrome.js)
 
 #### String and array manipulation exercises
 
