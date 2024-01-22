@@ -104,6 +104,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 #### String and array manipulation exercises
 
+- [ASCII_Sum](JavaScript/8_kyu/String_array_manipulation/ASCII_Sum.js)
 - [CSV_Rappresentation](JavaScript/8_kyu/String_array_manipulation/CSV_Rappresentation.js)
 - [Double_Char](JavaScript/8_kyu/String_array_manipulation/Double_Char.js)
 - [HTML_Special_Chars](JavaScript/8_kyu/String_array_manipulation/HTML_Special_Chars.js)
