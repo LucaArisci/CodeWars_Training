@@ -110,6 +110,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 - [Merging_Sorted_Int_Array](JavaScript/8_kyu/String_array_manipulation/Merging_Sorted_Int_Array.js)
 - [Print_Array](JavaScript/8_kyu/String_array_manipulation/Print_Array.js)
 - [Remove_Duplicate](JavaScript/8_kyu/String_array_manipulation/Remove_Duplicate.js)
+- [Sum_Strings](JavaScript/8_kyu/String_array_manipulation/Sum_Strings.js)
 
 ## Exercise to propose
 
