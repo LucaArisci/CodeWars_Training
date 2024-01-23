@@ -92,18 +92,19 @@ This folder is my personal exercise playground. The texts of all the exercises h
 - [Smallest_Int](JavaScript/8_kyu/Element_search/Smallest_Int.js)
 - [Element_Search](JavaScript/8_kyu/Element_search/Wolf_Sheep.js)
 
-#### String and array creation exercises
-
-- [Complete_Array](JavaScript/8_kyu/String_array_creation/Complete_Array.js)
-- [Greetings](JavaScript/8_kyu/String_array_creation/Greetings.js)
-- [Number_Array_Converter](JavaScript/8_kyu/String_array_creation/Number_Array_Converter.js)
-- [Stringy_Strings](JavaScript/8_kyu/String_array_creation/Stringy_Strings.js)
-- [Welcome](JavaScript/8_kyu/String_array_creation/Welcome.js)
-
 #### String and array comparison exercises
 
 - [Opposite_String](JavaScript/8_kyu/String_array_comparison/Opposite_String.js)
 - [Palindrome](JavaScript/8_kyu/String_array_comparison/Palindrome.js)
+
+#### String and array creation exercises
+
+- [Complete_Array](JavaScript/8_kyu/String_array_creation/Complete_Array.js)
+- [Greetings](JavaScript/8_kyu/String_array_creation/Greetings.js)
+- [Length_Concatenation](JavaScript/8_kyu/String_array_creation/Length_Concatenation.js)
+- [Number_Array_Converter](JavaScript/8_kyu/String_array_creation/Number_Array_Converter.js)
+- [Stringy_Strings](JavaScript/8_kyu/String_array_creation/Stringy_Strings.js)
+- [Welcome](JavaScript/8_kyu/String_array_creation/Welcome.js)
 
 #### String and array manipulation exercises
 
