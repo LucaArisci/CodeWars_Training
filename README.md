@@ -94,6 +94,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 #### String and array comparison exercises
 
+- [Formula](JavaScript/8_kyu/String_array_comparison/Formula.js)
 - [Opposite_String](JavaScript/8_kyu/String_array_comparison/Opposite_String.js)
 - [Palindrome](JavaScript/8_kyu/String_array_comparison/Palindrome.js)
 
