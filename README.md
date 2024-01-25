@@ -73,6 +73,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 - [ASCII_Code](JavaScript/8_kyu/Calculation/ASCII_Code.js)
 - [Decibel_Scale](JavaScript/8_kyu/Calculation/Decibel_Scale.js)
 - [Gravitational_Force](JavaScript/8_kyu/Calculation/Gravitational_Force.js)
+- [Heads_Legs_Problem](JavaScript/8_kyu/Calculation/Heads_Legs_Problem.js)
 - [Holiday](JavaScript/8_kyu/Calculation/Holiday.js)
 - [Job_Matching_1](JavaScript/8_kyu/Calculation/Job_Matching_1.js)
 - [Name_Billboard](JavaScript/8_kyu/Calculation/Name_Billboard.js)
