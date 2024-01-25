@@ -76,6 +76,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 - [Holiday](JavaScript/8_kyu/Calculation/Holiday.js)
 - [Job_Matching_1](JavaScript/8_kyu/Calculation/Job_Matching_1.js)
 - [Name_Billboard](JavaScript/8_kyu/Calculation/Name_Billboard.js)
+- [NBA](JavaScript/8_kyu/Calculation/NBA.js)
 - [Opposites_Attract](JavaScript/8_kyu/Calculation/Opposites_Attract.js)
 - [Paperwork](JavaScript/8_kyu/Calculation/Paperwork.js)
 - [Slope](JavaScript/8_kyu/Calculation/Slope.js)
