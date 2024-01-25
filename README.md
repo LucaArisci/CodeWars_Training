@@ -50,7 +50,9 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 #### String and array manipulation exercises
 
+- [Encode_Decode](JavaScript/7_kyu/String_array_manipulation/Encode_Decode.js)
 - [Spacey](JavaScript/7_kyu/String_array_manipulation/Spacey.js)
+- [Vowels](JavaScript/7_kyu/String_array_manipulation/Vowels.js)
 
 ## 8 Kyu
 
