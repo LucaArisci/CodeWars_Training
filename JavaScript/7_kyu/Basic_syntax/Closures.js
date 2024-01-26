@@ -28,7 +28,4 @@ function counter() {
     Alternative Solution
 */
 
-const counter =
-  (x = 1) =>
-  () =>
-    x++;
+const counter = (x = 1) = () => x++;

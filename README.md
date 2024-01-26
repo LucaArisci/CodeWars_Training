@@ -113,6 +113,7 @@ This folder is my personal exercise playground. The texts of all the exercises h
 - [Greetings](JavaScript/8_kyu/String_array_creation/Greetings.js)
 - [Length_Concatenation](JavaScript/8_kyu/String_array_creation/Length_Concatenation.js)
 - [Number_Array_Converter](JavaScript/8_kyu/String_array_creation/Number_Array_Converter.js)
+- [Number_Tables](JavaScript/8_kyu/String_array_creation/Number_Tables.js)
 - [Stringy_Strings](JavaScript/8_kyu/String_array_creation/Stringy_Strings.js)
 - [Welcome](JavaScript/8_kyu/String_array_creation/Welcome.js)
 
