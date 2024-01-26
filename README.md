@@ -25,6 +25,10 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 ## 7 Kyu
 
+#### Basic syntax exercises
+
+- [Closures](JavaScript/7_kyu/Basic_syntax/Closures.js)
+
 #### Calculation exercises
 
 - [Circle_Area](JavaScript/7_kyu/Calculation/Circle_Area.js)
@@ -58,8 +62,8 @@ This folder is my personal exercise playground. The texts of all the exercises h
 
 #### Basic syntax exercises
 
-- [Classes](JavaScript/8_kyu/Basic%20syntax/Classes.js)
-- [Template_Strings](JavaScript/8_kyu/Basic%20syntax/Template_Strings.js)
+- [Classes](JavaScript/8_kyu/Basic_syntax/Classes.js)
+- [Template_Strings](JavaScript/8_kyu/Basic_syntax/Template_Strings.js)
 
 #### Bug correction exercises
 
