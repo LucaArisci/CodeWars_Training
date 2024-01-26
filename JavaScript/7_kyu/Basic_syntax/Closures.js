@@ -23,3 +23,12 @@ function counter() {
     return count++;
   };
 }
+
+/*
+    Alternative Solution
+*/
+
+const counter =
+  (x = 1) =>
+  () =>
+    x++;
