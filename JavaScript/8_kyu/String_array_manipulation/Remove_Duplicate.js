@@ -50,9 +50,9 @@ function distinct(a) {
 function distinct(arr) {
   let res = [];
 
-  for (let i = 0; i < arr.length; i++) {
-    if (!res.includes(arr[i])) {
-      res.push(arr[i]);
+  for (let i of arr) {
+    if (!res.includes(i)) {
+      res.push(i);
     }
   }
   return res;

@@ -30,7 +30,7 @@ function sumOfDifferences(arr) {
     }
 
     return acc;
-  } else {
-    return 0;
-  }
+  } 
+  
+  return 0;
 }

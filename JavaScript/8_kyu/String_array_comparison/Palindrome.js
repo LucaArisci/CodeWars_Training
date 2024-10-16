@@ -21,8 +21,5 @@
 */
 
 function isPalindrome(x) {
-  return (
-    x.toLowerCase() ===
-    [...x].reverse().toString().replace(/,/g, "").toLowerCase()
-  );
+  return x.toLowerCase() === [...x].reverse().toString().replace(/,/g, "").toLowerCase();
 }

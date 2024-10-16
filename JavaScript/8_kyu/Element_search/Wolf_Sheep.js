@@ -35,7 +35,7 @@
 */
 
 function warnTheSheep(queue) {
-  let wolfPos = queue.reverse().indexOf("wolf");
+  let wolfPos = queue.length - 1 - queue.indexOf("wolf");
 
   return wolfPos === 0
     ? "Pls go away and stop eating my sheep"

@@ -17,6 +17,16 @@ function doubleChar(str) {
   return str2;
 }
 
+function doubleChar(str) {
+  let res = "";
+
+  for (let i of str) {
+    res += i + i;
+  }
+
+  return res;
+}
+
 /* 
    Alternative solution:
 
