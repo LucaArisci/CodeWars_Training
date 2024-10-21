@@ -10,4 +10,4 @@ This folder is my personal exercise playground. The texts of all the exercises h
 ## Tables of Content
 
 - [JavaScript](JavaScript/Table_Of_Contents.md)
-- [Typescript](Typescript/Table_Of_Contents.md)
+- [Typescript](TypeScript/Table_Of_Contents.md)
