@@ -41,6 +41,7 @@
 
 #### String and array comparison exercises
 
+- [Regex_validate_PIN_code](7_kyu/String_array_comparison/Regex_validate_PIN_code.js)
 - [Time_Log](7_kyu/String_array_comparison/Time_Log.js)
 - [Word_Pattern](7_kyu/String_array_comparison/Word_Pattern.js)
 
