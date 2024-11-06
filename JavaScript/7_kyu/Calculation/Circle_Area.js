@@ -22,7 +22,7 @@
 */
 
 var circleArea = function (radius) {
-  return radius > 0 && typeof radius === "number"
+  return typeof radius === "number" && radius > 0
     ? parseFloat((radius ** 2 * Math.PI).toFixed(2))
     : false;
 };

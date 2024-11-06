@@ -51,8 +51,6 @@
 */
 
 function match(job, candidates) {
-  // Which of these candidates match this job?
-
   let match = [];
   let equity_match;
   let location_match;
@@ -134,14 +132,9 @@ const equityMatch = function (candidate, job) {
 
 const locationMatch = function (candidate, job) {
   for (const location of job.locations) {
-    if (
-      candidate.desiredLocations.includes(location) ||
-      candidate.currentLocation === location
-    ) {
-      return true;
-    }
+    if (candidate.currentLocation === location) return true;
+    if (candidate.desiredLocations.includes(location)) return true;
   }
-
   return false;
 };
 
