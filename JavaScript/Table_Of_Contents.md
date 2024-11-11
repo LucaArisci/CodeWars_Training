@@ -54,6 +54,7 @@
 #### String and array manipulation exercises
 
 - [Categorize_New_Member](7_kyu/String_array_manipulation/Categorize_New_Member.js)
+- [Credit_Card_Mask](7_kyu/String_array_manipulation/Credit_Card_Mask.js)
 - [Encode_Decode](7_kyu/String_array_manipulation/Encode_Decode.js)
 - [Spacey](7_kyu/String_array_manipulation/Spacey.js)
 - [Vowels](7_kyu/String_array_manipulation/Vowels.js)

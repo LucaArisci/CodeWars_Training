@@ -9,6 +9,7 @@
 #### String and array manipulation exercises
 
 - [Categorize_New_Member](7_kyu/String_array_manipulation/Categorize_New_Member.ts)
+- [Credit_Card_Mask](7_kyu/String_array_manipulation/Credit_Card_Mask.ts)
 
 ## 8 Kyu
 
