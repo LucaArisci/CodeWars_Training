@@ -27,9 +27,10 @@ var replaceDots = function (str) {
 };
 
 /*
-    Alternative solution:
-     - added the \ to escape special characters
-     - added the g so that replace is run for all occurences in the string
+    String.prototype.replace(): returns a new string with one, some, or all matches
+                                of a pattern replaced by a replacement. The pattern
+                                can be a string or a RegExp, and the replacement can
+                                be a string or a function called for each match
 */
 
 var replaceDots = function (str) {

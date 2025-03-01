@@ -24,8 +24,8 @@
 ---------------------------------------------------------------------------------------- */
 
 /* 
-   Array.prototype.join():    creates and returns a new string by concatenating all of the elements in
-                              this array, (whit a specified separator in this case)
+    Array.prototype.join(): creates and returns a new string by concatenating all of the elements in
+                            this array, (whit a specified separator in this case)
 */
 
 function toCsvText(array) {
